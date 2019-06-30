@@ -1,6 +1,14 @@
 {
     "memesList": [
         {
+            "name": "¡No soy tonto tampoco he!",
+            "url": "https://raw.githubusercontent.com/pixshoot2i/Auroners/master/tonto.jpg"
+        },
+        {
+            "name": "Así soy yo, un hombre de sorpresas xd",
+            "url": "https://raw.githubusercontent.com/pixshoot2i/Auroners/master/Sorpresa.jpg"
+        },
+        {
             "name": "Esta mierda se hizo viral en facebook",
             "url": "https://raw.githubusercontent.com/pixshoot2i/Auroners/master/viral.jpg"
         },
