@@ -1,6 +1,10 @@
 {
     "memesList": [
         {
+            "name": "No soy tonto, tampoco he!!",
+            "url": "https://raw.githubusercontent.com/pixshoot2i/Auroners/master/tonto.jpg"
+        },
+        {
             "name": "Mete Minecraft en todas las frases ¡Es increíble!",
             "url": "https://raw.githubusercontent.com/pixshoot2i/Auroners/master/Minecraft.jpg"
         },
